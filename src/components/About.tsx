@@ -49,7 +49,7 @@ export default function About() {
             <p className="text-lg text-gray-700 leading-relaxed">
               Minha jornada na programação começou com curiosidade e evoluiu para uma paixão
               por resolver problemas complexos através do código. Estou sempre aprendendo novas
-              tecnologias e aprimorando minhas habilidades.
+              tecnologias e aprimorando minhas habilidades!.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
               Quando não estou codificando, gosto de contribuir com a comunidade open source,
