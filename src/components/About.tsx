@@ -25,7 +25,7 @@ export default function About() {
   ];
 
   const technologies = [
-    'React', 'Javascript', 'Java', 'Python',
+    'React', 'Javascript', 'Java', 'Python','Excel','PowerBI','Python',
     'MySQL', 'HTML/CSS', 'Git', 'MongoDB',
   ];
 

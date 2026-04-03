@@ -18,12 +18,12 @@ export default function Hero({ onNavigate }: HeroProps) {
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
             Olá, eu sou{' '}
             <span className="bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent">
-              Seu Nome
+              Lucas Haddad
             </span>
           </h1>
 
           <p className="text-xl md:text-2xl text-gray-600 mb-4 max-w-3xl mx-auto">
-            Desenvolvedor Full Stack
+            Desenvolvedor Back End
           </p>
 
           <p className="text-lg text-gray-500 mb-12 max-w-2xl mx-auto leading-relaxed">
@@ -48,7 +48,7 @@ export default function Hero({ onNavigate }: HeroProps) {
 
           <div className="flex gap-6 justify-center mb-16">
             <a
-              href="https://github.com"
+              href="https://github.com/lucashaddad97"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-all transform hover:-translate-y-1 text-gray-700 hover:text-blue-600"
@@ -56,7 +56,7 @@ export default function Hero({ onNavigate }: HeroProps) {
               <Github size={24} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="www.linkedin.com/in/lucashaddad97"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-all transform hover:-translate-y-1 text-gray-700 hover:text-blue-600"
@@ -64,7 +64,7 @@ export default function Hero({ onNavigate }: HeroProps) {
               <Linkedin size={24} />
             </a>
             <a
-              href="mailto:seu@email.com"
+              href="lucashaddad.97@hotmail.com"
               className="p-3 bg-white rounded-full shadow-md hover:shadow-lg transition-all transform hover:-translate-y-1 text-gray-700 hover:text-blue-600"
             >
               <Mail size={24} />
