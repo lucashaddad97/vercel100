@@ -25,8 +25,8 @@ export default function About() {
   ];
 
   const technologies = [
-    'React', 'TypeScript', 'Node.js', 'Tailwind CSS',
-    'JavaScript', 'HTML/CSS', 'Git', 'Supabase',
+    'React', 'Javascript', 'Java', 'Python',
+    'MySQL', 'HTML/CSS', 'Git', 'MongoDB',
   ];
 
   return (
