@@ -42,18 +42,13 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 mb-16">
           <div className="space-y-6">
             <p className="text-lg text-gray-700 leading-relaxed">
-              Sou um desenvolvedor apaixonado por criar soluções digitais que fazem a diferença.
-              Com experiência em desenvolvimento web full stack, transformo ideias em aplicações
-              funcionais e elegantes.
+              Sou um desenvolvedor focado em criar soluções digitais eficientes e bem estruturadas. Com experiência em Python, JavaScript e React, atuo principalmente nas áreas de desenvolvimento back-end e dados, transformando ideias em aplicações funcionais e organizadas.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              Minha jornada na programação começou com curiosidade e evoluiu para uma paixão
-              por resolver problemas complexos através do código. Estou sempre aprendendo novas
-              tecnologias e aprimorando minhas habilidades!.
+              Minha jornada na programação começou com curiosidade e evoluiu para um interesse sólido em resolver problemas através da lógica e do código, especialmente envolvendo manipulação de dados e integração com APIs.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
-              Quando não estou codificando, gosto de contribuir com a comunidade open source,
-              explorar novas tecnologias e compartilhar conhecimento com outros desenvolvedores.
+              Estou sempre buscando aprender novas tecnologias, evoluir minhas habilidades e desenvolver soluções cada vez mais eficientes, com foco em clareza, desempenho e boas práticas.
             </p>
           </div>
 
