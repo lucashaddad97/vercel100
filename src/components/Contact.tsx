@@ -28,13 +28,13 @@ export default function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'seu@email.com',
+      value: 'lucashaddad.97@hotmail.com',
       link: 'mailto:seu@email.com',
     },
     {
       icon: Phone,
       label: 'Telefone',
-      value: '+55 (11) 99999-9999',
+      value: '+55 (24) 98808-9834',
       link: 'tel:+5511999999999',
     },
     {
